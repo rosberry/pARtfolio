@@ -16,7 +16,7 @@ Simple [ARKit](https://developer.apple.com/arkit/) example with Rosberry apps.
 
 Download the project and build on device.
 
-## Authors
+#### 😁 Authors
 
 * Artem Novichkov, artem.novichkov@rosberry.com
 
